@@ -1,0 +1,16 @@
+.list-user-container{
+    .list-user-tittle{
+        color: aquamarine;
+    }
+    .list-user-content{
+        margin-top: 10px;
+        .user{
+            color: aqua;
+           font-size: 22px;
+           width: 400px;
+           margin: 0 auto;
+           height: 40px;
+           border: 1px solid grey;
+        }
+    }
+}
